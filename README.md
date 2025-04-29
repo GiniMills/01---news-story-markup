@@ -1,2 +1,2 @@
-# workshop---html-tags-and-meaning-on-the-web
+# 01 -- news-story-markup
 Workshop - HTML: HTML Tags and meaning on the web
